@@ -1,0 +1,10 @@
+INFO:root:Ran with args: ('Rose', 23), and kwargs: {}
+INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+2021-09-02 22:06:15,355:INFO:root
+2021-09-02 22:06:48,775:INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+2021-09-02 22:19:24,997:INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+2021-09-02 22:39:17,901:INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+2021-09-02 22:41:48,125:INFO:root:Ran with args: ('Rose', 21), and kwargs: {}
+2021-09-02 22:42:49,319:INFO:root:Ran with args: ('Roses', 21), and kwargs: {}
